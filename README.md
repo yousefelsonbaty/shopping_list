@@ -1,6 +1,6 @@
-# shopping_list
+# Shopping List App
 
-A new Flutter project.
+A shopping list application made for Android through Flutter, programmed in Dart.
 
 ## Getting Started
 
