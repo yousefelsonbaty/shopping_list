@@ -1,4 +1,4 @@
-# Shopping List App
+# shopping_list
 
 A shopping list application made for Android through Flutter, programmed in Dart.
 
